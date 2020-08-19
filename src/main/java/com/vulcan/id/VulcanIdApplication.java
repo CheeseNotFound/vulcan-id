@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * 启动器
+ *
+ * @author Sven
  */
 @SpringBootApplication
 public class VulcanIdApplication {
